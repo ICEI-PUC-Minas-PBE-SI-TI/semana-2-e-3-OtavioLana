@@ -10,4 +10,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![alt text](../images/Screenshot_3.png)
+<img src="![alt text](../images/Screenshot_3.png)" Alt="Screenshot">
