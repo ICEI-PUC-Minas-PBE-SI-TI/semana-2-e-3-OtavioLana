@@ -4,9 +4,11 @@
 
 - Nome: Otávio Gomes Lana
 - Matrícula: 907965
+
+### Prints das telas
+
 ![Screenshot 1](images/Screenshot_1.png)
 ![Screenshot 2](images/Screenshot_2.png)
-
 
 ## Print da tela da página criada (Curriculum Vitae)
 
